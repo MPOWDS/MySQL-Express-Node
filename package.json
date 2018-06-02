@@ -1,0 +1,44 @@
+{
+  "name": "mysql-express-node",
+  "version": "1.0.0",
+  "description": "sql-express-node",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.1.1",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^2.0.1",
+    "cookie-parser": "^1.4.3",
+    "csurf": "^1.9.0",
+    "dotenv": "^5.0.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.2.0",
+    "font-awesome": "^4.7.0",
+    "helmet": "^3.12.1",
+    "jquery": "^3.3.1",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.5",
+    "popper.js": "^1.14.3",
+    "serve-favicon": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MPOWDS/MySQL-Express-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MPOWDS/MySQL-Express-Node/issues"
+  },
+  "homepage": "https://github.com/MPOWDS/MySQL-Express-Node#readme"
+}
